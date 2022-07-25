@@ -1,7 +1,5 @@
 # Kevala - Duplicate remover for csv
 
-**TODO: Add description**
-
 ## Installation
 Elixir 1.13.4 (compiled with Erlang/OTP 24)
 
