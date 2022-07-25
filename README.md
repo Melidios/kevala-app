@@ -4,6 +4,8 @@
 Elixir 1.13.4 (compiled with Erlang/OTP 24)
 
 In order to run service do:
+Clone repo. Make sure to have Elixir installed.
+
 `mix compile`
 `iex -S mix`
 `Kevala.process_file("test.csv", :phone)` - second argumet can be `:phone`, `:email`, `:phone_and_email`
